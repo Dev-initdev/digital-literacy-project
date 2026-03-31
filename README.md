@@ -1,8 +1,8 @@
-# 📘 Digital Literacy Portfolio
+#  Digital Literacy Portfolio
 
-## 👤 Student Details
+##  Student Details
 
-* **Name:** Devang
+* **Name:** Devang Atiyolil
 * **Registration Number:** 24BCE11332
 * **Branch:** B.Tech Cse Core
 * **Year:** Second Year
